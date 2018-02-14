@@ -1,0 +1,4 @@
+For this I don't have a picture of the whiteboarding, my partner and I worked seperately do to commutes but communicated our solutions and he sent me his psuedocode and solution, but mine was different. 
+Basically what I did/ what my  psuedocode was:
+Taking the array and reversing it, so the last element is first, the first element is last and the middle stays the middle.
+That is exactly what the reverse() did, I used the https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse documentation tof igure out how it works. It basically takes whatever is last and what ever is first and switches it. 
